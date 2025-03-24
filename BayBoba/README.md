@@ -3,4 +3,4 @@ I made this project to practice independently using the skills from the Analyst 
 
 ...Also there was two datasets available on Kaggle for 2023 and 2024.
 
-I first did some data cleaning on the files with Pandas. I then made visualizations in Tableau: https://public.tableau.com/app/profile/shawn.wu6652/vizzes
+I first did some data cleaning on the files with Pandas. I then made visualizations in Tableau: [https://public.tableau.com/app/profile/shawn.wu6652/vizzes](https://public.tableau.com/views/BayAreaBubbleTea/BayBoba?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
