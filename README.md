@@ -11,3 +11,6 @@ This directory contains the projects I worked on as part of a series of online d
 
 ## BayBoba
 A fun project to practice data cleaning and visualizations.
+
+## Kaggle 
+My notebooks made using Kaggle datasets will be put in here.
