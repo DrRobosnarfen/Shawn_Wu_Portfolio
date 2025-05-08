@@ -14,3 +14,6 @@ A fun project to practice data cleaning and visualizations.
 
 ## Kaggle 
 My notebooks made using Kaggle datasets will be put in here.
+
+## Power BI
+My Power BI reports.
