@@ -12,7 +12,7 @@ Original file is located at
     1a. "2007 Baby Names" into search engine
 
     1b. Selected ssa.gov
-  2.   Determine how to retrive data from website
+  2.   Determine how to retrieve data from website
 
     2a. Looked for download link for dataset (Unavailable)
 
